@@ -1,0 +1,5 @@
+n=input("Enter your name:")
+a=int(input("Enter your age:"))
+c=input("Enter college name:")
+d=input("Enter city name:")
+print("Hello!,"+n+" you are "+str(a)+" years old .your college-"+c+" that is in "+d)
