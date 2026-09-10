@@ -13,3 +13,4 @@ if p>=40:
     print("pass")
 else :
     print("fail")
+print("thank you")    
